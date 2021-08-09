@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SingleActivity-August9</string>
+    <string name="click_me">Click me!</string>
+    <string name="dont_click_me">"Don't click me!"</string>
+</resources>
